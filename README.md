@@ -45,6 +45,15 @@ Inicie explorando os notebooks na pasta /notebooks.
 
 Para rodar o pipeline completo de treinamento, execute: python src/train.py
 
+---
+
+## 📅 Apresentação do Case
+
+A apresentação executiva com os insights de negócio, a definição da target e os resultados dos modelos preditivos pode ser acessada diretamente pelo link abaixo:
+
+👉 **[Acessar Apresentação do Projeto (PDF)](./docs/nps_preditivo_apresentacao.pdf)**
+
+
 👥 Equipe
 Amanda Cristine
 
