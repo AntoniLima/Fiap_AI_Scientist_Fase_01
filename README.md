@@ -62,7 +62,7 @@ Dica útil: Para limpar o cache do projeto (__pycache__) e formatar o ambiente e
 📅 Apresentação do Case
 A apresentação executiva com os insights de negócio, a definição da target e os resultados dos modelos preditivos pode ser acessada diretamente pelo link abaixo:
 
-👉 Acessar Apresentação do Projeto (PDF) (link)
+👉 Acessar Apresentação do Projeto (PDF) (docs\Apresentacao\NPS Preditivo_v1.pdf)
 
 👥 Equipe
 Amanda Cristine
