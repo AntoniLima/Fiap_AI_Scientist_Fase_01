@@ -82,7 +82,7 @@ make run
 
 A apresentação executiva com os insights de negócio, a definição da target e os resultados dos modelos preditivos pode ser acessada diretamente pelo link abaixo:
 
-👉 **[Acessar Apresentação do Projeto (PDF)](https://www.google.com/search?q=./docs/nps_preditivo_apresentacao.pdf)**
+👉 **[Acessar Apresentação do Projeto (PDF)](./docs/Apresentacao/NPS%20Preditivo_v1.pdf)**
 
 ---
 
