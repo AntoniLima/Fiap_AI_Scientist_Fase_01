@@ -8,8 +8,8 @@ PIP = $(VENV)/Scripts/pip
 help:
 	@echo "Comandos disponíveis:"
 	@echo "  make setup    - Cria o ambiente virtual e instala as dependências"
-	@echo "  make clean    - Remove arquivos de cache"
-	@echo "  make run      - Executa o script de treinamento (train.py)"
+	@echo "  make clean    - Remove arquivos de cache e o ambiente virtual"
+	@echo "  make run      - Executa o orquestrador do pipeline (main.py)"
 
 setup:
 	@echo "Criando o ambiente virtual..."
@@ -21,8 +21,8 @@ setup:
 	@echo "Setup concluído! Para ativar, rode: source venv/Scripts/activate"
 
 run:
-	@echo "Executando o pipeline de treinamento..."
-	$(PYTHON) src/train.py
+	@echo "Executando o pipeline completo..."
+	$(PYTHON) main.py
 
 clean:
 	@echo "Limpando o cache do projeto..."
